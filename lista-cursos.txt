@@ -1,0 +1,43 @@
+Curso PHP: conceitos, lidando com dados, loops e mais
+Curso Avançando com PHP: Arrays, Strings, Função e Web
+Curso PHP Strings: manipulando textos com PHP
+Curso PHP: manipulando coleções com Arrays
+Curso PHP: dominando as Collections
+Curso Orientação a Objetos com PHP: Classes, métodos e atributos
+Curso Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+Curso PHP Brasil: validação de dados no padrão nacional
+Curso PHP Composer: Dependências, Autoload e Publicação
+Curso PHP: Programação Funcional
+Curso PHP Exceptions: tratamento de erros
+Curso PHP I/O: trabalhando com arquivos e streams
+Curso PHP e Behavior Driven Development: BDD com Behat
+Curso PHP Parallel: Processos, Threads e Channels
+Curso PHP e Clean Architecture: descomplicando arquitetura de software
+Curso PHP e Domain Driven Design: apresentando os conceitos
+Curso PHP Reativo: programação assíncrona em tempo real
+Curso PHP e PDO: trabalhando com bancos de dados
+Curso PHP e Selenium: testes de ponta a ponta
+Curso Object Calisthenics: exercitando a Orientação a Objetos
+Curso Metaprogramação com PHP: API de Reflection
+Curso Swoole PHP: servidor assíncrono e corrotinas com PHP
+Curso Refatoração em PHP: boas práticas no seu código
+Curso Laravel: criando uma aplicação com MVC
+Curso Laravel: validando formulários, usando sessões e definindo relacionamentos
+Curso Laravel: transações, service container e autenticação
+Curso Laravel: e-mails, eventos assíncronos, uploads e testes
+Curso Laravel: construindo APIs
+Curso XDebug: ferramenta de debug e profiling
+Curso PHP e TDD: testes com PHPUnit
+Curso SOLID com PHP: princípios da programação orientada a objetos
+Curso Mocks em PHP: entenda os dublês de testes
+Curso PHP Refatoração: boas práticas no seu código
+Curso Testes de integração com PHP: testando o acesso à API e ao banco de dados
+Curso Design Patterns em PHP: padrões comportamentais
+Curso Design Patterns em PHP: padrões estruturais
+Curso Design Patterns em PHP: padrões criacionais
+Curso Doctrine: conhecendo um ORM PHP
+Curso Doctrine: Migrations, relatórios e performance
+Curso Symfony Framework: cache e segurança
+Curso Symfony Framework: criando uma aplicação com MVC
+Curso Symfony Framework: formulários, validação e sessão
+Curso PHP na Web: conhecendo o padrão MVC
