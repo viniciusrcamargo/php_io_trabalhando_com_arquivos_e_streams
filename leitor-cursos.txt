@@ -1,2 +1,2 @@
-PHP Design Patterns I
+PHP Design Patterns I: Boas práticas de programação
 PHP Design Patterns II: Boas práticas de programação
