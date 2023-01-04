@@ -1,8 +1,8 @@
 <?php
 
-$arquivo = fopen('leitor-cursos.txt','w');
+$arquivo = fopen('leitor-cursos.txt','a+');
 
-$curso = 'PHP Design Patterns I';
+$curso = "\nPHP Design Patterns II: Boas práticas de programação";
 
 fwrite($arquivo,$curso);
 
