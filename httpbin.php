@@ -2,9 +2,8 @@
 
 $contexto = stream_context_create([
     'http' => [
-        'method' => 'POST',
-        'header' => 'X-From: PHP',
-        'content' => 'Teste do corpo da requisição'
+        'method' => 'GET',
+        'header' => 'X-From: PHP'
     ]
 ]);
-echo file_get_contents('http://httpbin.org/post', false, $contexto);
+echo file_get_contents('https://brasilapi.com.br/api/registrobr/v1/chrisoft.com.br', false, $contexto);
