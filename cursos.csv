@@ -1,46 +1,46 @@
 "Curso PHP: conceitos, lidando com dados, loops e mais";Sim
-"Curso Avan√ßando com PHP: Arrays, Strings, Fun√ß√£o e Web";Sim
+"Curso AvanÁando com PHP: Arrays, Strings, FunÁ„o e Web";Sim
 "Curso PHP Strings: manipulando textos com PHP";Sim
-"Curso PHP: manipulando cole√ß√µes com Arrays";Sim
+"Curso PHP: manipulando coleÁıes com Arrays";Sim
 "Curso PHP: dominando as Collections";Sim
-"Curso Orienta√ß√£o a Objetos com PHP: Classes, m√©todos e atributos";Sim
-"Curso Avan√ßando com Orienta√ß√£o a Objetos com PHP: Heran√ßa, Polimorfismo e Interfaces";Sim
-"Curso PHP Brasil: valida√ß√£o de dados no padr√£o nacional";Sim
-"Curso PHP Composer: Depend√™ncias, Autoload e Publica√ß√£o";Sim
-"Curso PHP: Programa√ß√£o Funcional";Sim
+"Curso OrientaÁ„o a Objetos com PHP: Classes, mÈtodos e atributos";Sim
+"Curso AvanÁando com OrientaÁ„o a Objetos com PHP: HeranÁa, Polimorfismo e Interfaces";Sim
+"Curso PHP Brasil: validaÁ„o de dados no padr„o nacional";Sim
+"Curso PHP Composer: DependÍncias, Autoload e PublicaÁ„o";Sim
+"Curso PHP: ProgramaÁ„o Funcional";Sim
 "Curso PHP Exceptions: tratamento de erros";Sim
 "Curso PHP I/O: trabalhando com arquivos e streams";Sim
 "Curso PHP e Behavior Driven Development: BDD com Behat";Sim
 "Curso PHP Parallel: Processos, Threads e Channels";Sim
 "Curso PHP e Clean Architecture: descomplicando arquitetura de software";Sim
 "Curso PHP e Domain Driven Design: apresentando os conceitos";Sim
-"Curso PHP Reativo: programa√ß√£o ass√≠ncrona em tempo real";Sim
+"Curso PHP Reativo: programaÁ„o assÌncrona em tempo real";Sim
 "Curso PHP e PDO: trabalhando com bancos de dados";Sim
 "Curso PHP e Selenium: testes de ponta a ponta";Sim
-"Curso Object Calisthenics: exercitando a Orienta√ß√£o a Objetos";Sim
-"Curso Metaprograma√ß√£o com PHP: API de Reflection";Sim
-"Curso Swoole PHP: servidor ass√≠ncrono e corrotinas com PHP";Sim
-"Curso Refatora√ß√£o em PHP: boas pr√°ticas no seu c√≥digo";Sim
-"Curso Laravel: criando uma aplica√ß√£o com MVC";Sim
-"Curso Laravel: validando formul√°rios, usando sess√µes e definindo relacionamentos";Sim
-"Curso Laravel: transa√ß√µes, service container e autentica√ß√£o";Sim
-"Curso Laravel: e-mails, eventos ass√≠ncronos, uploads e testes";Sim
+"Curso Object Calisthenics: exercitando a OrientaÁ„o a Objetos";Sim
+"Curso MetaprogramaÁ„o com PHP: API de Reflection";Sim
+"Curso Swoole PHP: servidor assÌncrono e corrotinas com PHP";Sim
+"Curso RefatoraÁ„o em PHP: boas pr·ticas no seu cÛdigo";Sim
+"Curso Laravel: criando uma aplicaÁ„o com MVC";Sim
+"Curso Laravel: validando formul·rios, usando sessıes e definindo relacionamentos";Sim
+"Curso Laravel: transaÁıes, service container e autenticaÁ„o";Sim
+"Curso Laravel: e-mails, eventos assÌncronos, uploads e testes";Sim
 "Curso Laravel: construindo APIs";Sim
 "Curso XDebug: ferramenta de debug e profiling";Sim
 "Curso PHP e TDD: testes com PHPUnit";Sim
-"Curso SOLID com PHP: princ√≠pios da programa√ß√£o orientada a objetos";Sim
-"Curso Mocks em PHP: entenda os dubl√™s de testes";Sim
-"Curso PHP Refatora√ß√£o: boas pr√°ticas no seu c√≥digo";Sim
-"Curso Testes de integra√ß√£o com PHP: testando o acesso √† API e ao banco de dados";Sim
-"Curso Design Patterns em PHP: padr√µes comportamentais";Sim
-"Curso Design Patterns em PHP: padr√µes estruturais";Sim
-"Curso Design Patterns em PHP: padr√µes criacionais";Sim
+"Curso SOLID com PHP: princÌpios da programaÁ„o orientada a objetos";Sim
+"Curso Mocks em PHP: entenda os dublÍs de testes";Sim
+"Curso PHP RefatoraÁ„o: boas pr·ticas no seu cÛdigo";Sim
+"Curso Testes de integraÁ„o com PHP: testando o acesso ‡ API e ao banco de dados";Sim
+"Curso Design Patterns em PHP: padrıes comportamentais";Sim
+"Curso Design Patterns em PHP: padrıes estruturais";Sim
+"Curso Design Patterns em PHP: padrıes criacionais";Sim
 "Curso Doctrine: conhecendo um ORM PHP";Sim
-"Curso Doctrine: Migrations, relat√≥rios e performance";Sim
-"Curso Symfony Framework: cache e seguran√ßa";Sim
-"Curso Symfony Framework: criando uma aplica√ß√£o com MVC";Sim
-"Curso Symfony Framework: formul√°rios, valida√ß√£o e sess√£o";Sim
-"Curso PHP na Web: conhecendo o padr√£o MVC";Sim
+"Curso Doctrine: Migrations, relatÛrios e performance";Sim
+"Curso Symfony Framework: cache e seguranÁa";Sim
+"Curso Symfony Framework: criando uma aplicaÁ„o com MVC";Sim
+"Curso Symfony Framework: formul·rios, validaÁ„o e sess„o";Sim
+"Curso PHP na Web: conhecendo o padr„o MVC";Sim
 ;N√£o
 cls;N√£o
 teste;N√£o
